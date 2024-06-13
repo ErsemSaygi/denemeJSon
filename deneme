@@ -1,0 +1,21 @@
+{
+    "recordList": [],
+    "customData": [
+        {
+            "servicePK": "d12b7375-5b71-4df6-943f-157e85f9a79c",
+            "customerName": "deneme 6",
+            "serviceType": "SSH",
+            "sshStatus": "Teslim Alma Bekleniyor",
+            "deliveryAddress": ""
+        },
+        {
+            "servicePK": "c4ee02bc-78f5-4c0c-82e7-3b6e4503c95b",
+            "customerName": "deneme 6",
+            "serviceType": "SSH",
+            "sshStatus": "Teslim Alma Bekleniyor",
+            "deliveryAddress": "adres 7"
+        }
+    ],
+    "now": "Jun 13, 2024, 5:35:47 PM",
+    "status": 200
+}
